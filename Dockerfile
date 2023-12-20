@@ -1,1 +1,1 @@
-FROM ghcr.io/kyverno/cleanup-controller:v1.9.2
+FROM ghcr.io/kyverno/cleanup-controller:v1.11.1
